@@ -1,0 +1,19 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-11-02 19:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands_plateau": "2021-11-02 19:32:52 +0000",
+      "minecraft:desert": "2021-11-02 19:32:58 +0000",
+      "minecraft:badlands": "2021-11-02 19:32:09 +0000",
+      "minecraft:wooded_badlands_plateau": "2021-11-02 19:32:22 +0000",
+      "minecraft:savanna": "2021-11-02 19:32:43 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
